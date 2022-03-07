@@ -1,0 +1,2 @@
+﻿Xin chào mọi người 
+Dự án phần mềm "Quản lý bán hàng" 
